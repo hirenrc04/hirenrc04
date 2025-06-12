@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<!-- 
+
 ### 🧠 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/krish2o?theme=dark&font=Karma&ext=contest" />
-</p> -->
+  <img src="https://leetcard.jacoblin.cool/Hiren_045?theme=dark&font=Karma&ext=contest" />
+</p>
 
 ---
 
