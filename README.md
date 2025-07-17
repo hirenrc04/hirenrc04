@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hirenrc04&theme=radical&show_icons=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirenrc04&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=hirenrc04&theme=radical" height="170"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirenrc04&layout=compact&theme=radical" height="130"/>
